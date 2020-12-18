@@ -10,6 +10,11 @@ h1, h2, h3 {
 	text-transform: uppercase;
 	font-weight: 300;
 	color: #2D2D2D;
+	transition: all .3s ease;
+  &:hover {
+    text-shadow: 1px 1px 0 lighten($bg, 15%), 2px 2px 0 lighten($bg, 10%), 3px 3px 0 lighten($bg, 5%);
+    transform: translate(-3px,-3px);
+  }
 }
 #header{
   width: 100%;
