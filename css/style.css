@@ -71,7 +71,7 @@ h1, h2, h3 {
         height: 3px;
         top: 0;
         left: 0;
-        background-color: @yellow;
+        background-color: #000;
         transform: scaleX(0);
         transform-origin: top left;
 
@@ -85,7 +85,7 @@ h1, h2, h3 {
         height: 3px;
         bottom: 0;
         right: 0;
-        background-color: @yellow;
+        background-color: #000;
         transform: scaleX(0);
         transform-origin: bottom right;
 
