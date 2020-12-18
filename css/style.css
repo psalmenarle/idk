@@ -51,6 +51,10 @@ h1, h2, h3 {
     text-align: center;
     color: #fff;
 }
+.container {
+    position: relative;
+    font-size: 24px;
+}
 
 .link {
     display: inline-block;
@@ -99,4 +103,10 @@ h1, h2, h3 {
             transform: scaleX(1);
         }
     }
+}
+
+.link-wrapper {
+    position: relative;
+    display: block;
+    padding: 20px 0;
 }
