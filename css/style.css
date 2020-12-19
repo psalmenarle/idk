@@ -60,8 +60,14 @@ h1, h2, h3 {
     font-size: 24px;
 }
 .home{
-	font-size: 35px;
-	 background-size: auto auto;
+    color: #fff;
+    font-size: 92px;
+    background: linear-gradient(to right,2D5656 10%, #2D0404 50%, #2D4848 60%);
+    background-size: auto auto;
+    background-clip: border-box;
+    background-size: 200% auto;
+    font-size: 35px;
+    background-size: auto auto;
     background-clip: border-box;
     background-size: 200% auto;
     color: #fff;
