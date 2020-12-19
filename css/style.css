@@ -61,6 +61,7 @@ h1, h2, h3 {
 }
 .home{
       animation: color-change 2s infinite;
+	font-weight: bold;
 }
 @keyframes color-change {
   0% { color:  #2D2D2D; }
