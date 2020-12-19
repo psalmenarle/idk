@@ -1,6 +1,6 @@
 <div class="container">
     <h1>  Psalm Enarle </h1> 
-    <img  src="css/about.svg" width="400px" height="300px"/>
+    <img  src="css/about.svg" width="400px" height="300px" class="glass"/>
 <table class="can">
   <tr>
     <td class="me">Psalm Enarle is currently a 3rd year year Information Technology Student 
